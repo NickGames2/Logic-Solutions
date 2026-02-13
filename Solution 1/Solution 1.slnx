@@ -8,4 +8,13 @@
   <Folder Name="/03/">
     <Project Path="OrderingOfThreeNumbers/OrderingOfThreeNumbers.csproj" Id="ebbd132f-8afa-4303-b6a7-f77d06906297" />
   </Folder>
+  <Folder Name="/04/">
+    <Project Path="ANumberIsAMultipleOfAnother/ANumberIsAMultipleOfAnother.csproj" Id="9ea4cf87-2a9e-4806-b6f1-3726d3a51678" />
+  </Folder>
+  <Folder Name="/05/">
+    <Project Path="LeapYear/LeapYear.csproj" Id="ab0f0d60-7057-4011-938d-af48a7f8f318" />
+  </Folder>
+  <Folder Name="/06/">
+    <Project Path="SimplePayroll/SimplePayroll.csproj" Id="75227a90-c6ad-4370-9e6e-66c146462def" />
+  </Folder>
 </Solution>
