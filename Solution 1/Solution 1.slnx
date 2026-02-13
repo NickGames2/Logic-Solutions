@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/01/">
+    <Project Path="TheNumberIsOddOrNot/TheNumberIsOddOrNot.csproj" Id="545b67da-013a-4cbd-8762-a62645e84967" />
+  </Folder>
+  <Folder Name="/02/">
+    <Project Path="TheNumberIsGreaterOrLess/TheNumberIsGreaterOrLess.csproj" Id="7b0a6009-d79f-4643-8b14-acb29fa37e3c" />
+  </Folder>
+  <Folder Name="/03/">
+    <Project Path="OrderingOfThreeNumbers/OrderingOfThreeNumbers.csproj" Id="ebbd132f-8afa-4303-b6a7-f77d06906297" />
+  </Folder>
+</Solution>
