@@ -20,4 +20,7 @@
   <Folder Name="/07/">
     <Project Path="Discount/Discount.csproj" Id="8133d27f-e3d9-4efa-a267-7b925c6a4786" />
   </Folder>
+  <Folder Name="/08/">
+    <Project Path="TuitionFee/TuitionFee.csproj" Id="9520166f-9db8-4681-a58e-9968b5894bcf" />
+  </Folder>
 </Solution>
