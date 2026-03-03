@@ -23,4 +23,10 @@
   <Folder Name="/08/">
     <Project Path="TuitionFee/TuitionFee.csproj" Id="9520166f-9db8-4681-a58e-9968b5894bcf" />
   </Folder>
+  <Folder Name="/09/">
+    <Project Path="ShippingOfGoods/ShippingOfGoods.csproj" Id="59120e3f-3973-4ec5-8ab8-aa2b9f66b2e0" />
+  </Folder>
+  <Folder Name="/30/">
+    <Project Path="OperationOnAMatrix/OperationOnAMatrix.csproj" Id="576d37b2-d105-433a-9da0-eb802eb96c70" />
+  </Folder>
 </Solution>
