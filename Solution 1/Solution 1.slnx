@@ -29,4 +29,7 @@
   <Folder Name="/30/">
     <Project Path="OperationOnAMatrix/OperationOnAMatrix.csproj" Id="576d37b2-d105-433a-9da0-eb802eb96c70" />
   </Folder>
+  <Folder Name="/35/">
+    <Project Path="Factorization/Factorization.csproj" Id="c8595fd9-fadb-4aaa-972f-3fa4e5b6ce3a" />
+  </Folder>
 </Solution>
